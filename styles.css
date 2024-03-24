@@ -1,11 +1,13 @@
 /*  your css code here. If applicable */
 center{
+  position: absolute;
+  left: 50%;
+  top: 50%;
   width: 200px;
   height: 200px;
-  padding: 10px;
   border: 2px solid black;
-  margin: 0 auto;
+  background-color: lightblue;
 }
-h2{
+p{
 	color: purple;
 }
